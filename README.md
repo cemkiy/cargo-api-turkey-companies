@@ -15,4 +15,9 @@ c_api = cargo_api()
 c_api.yurtici('3121768*****')
 
 
-return: True or False
+return: 
+
+If your cargo reached someone, returned True
+
+else returned False
+
