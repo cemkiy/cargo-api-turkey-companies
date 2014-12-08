@@ -1,7 +1,7 @@
 cargo_api
 =========
 
-Cargo Checked Applicaiton by cargo no.yurtiçi kargo,aras kargo,mng kargo
+Cargo Checked Applicaiton by cargo no.yurtiçi kargo,aras kargo,ups kargo
 
 Example:
 
