@@ -1,23 +1,20 @@
-cargo_api
-=========
+# Cargo API
+This API works with html parse. You do not have to any api key for use cargo api.
 
-Cargo Checked Applicaiton by cargo no.yurtiçi kargo,aras kargo,ups kargo
+# Companies
+- Yurtiçi Kargo
+- Aras Kargo
+- UPS
 
-Example:
-
+# Run
+```python
 import cargo_api
-
 from cargo_api import *
 
-
 c_api = cargo_api()
+result = c_api.yurtici('3121768*****')
+#result:boolean
+```
 
-c_api.yurtici('3121768*****')
-
-
-return: 
-
-If your cargo reached someone, returned True
-
-else returned False
-
+# Output
+If cargo arrived a person, return true.
